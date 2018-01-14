@@ -1,0 +1,2 @@
+# RecyclerViewMOD
+fit center items
